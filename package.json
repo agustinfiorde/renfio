@@ -1,0 +1,25 @@
+{
+  "name": "renfio",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agustinfiorde/renfio"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "library",
+    "npm"
+  ],
+  "author": "renato & agustin",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
